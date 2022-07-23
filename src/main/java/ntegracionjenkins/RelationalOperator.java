@@ -1,4 +1,4 @@
-package IntegracionJenkins;
+package ntegracionjenkins;
 
 public class RelationalOperator {
 

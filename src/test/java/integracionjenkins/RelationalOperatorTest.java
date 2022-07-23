@@ -1,10 +1,10 @@
 package integracionjenkins;
-
+//prue
 import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import IntegracionJenkins.RelationalOperator;
+import ntegracionjenkins.RelationalOperator;
 
 public class RelationalOperatorTest {
 
