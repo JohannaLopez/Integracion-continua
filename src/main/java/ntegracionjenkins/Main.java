@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ntegracionjenkins;
-//ejem
+//prueba6
 
 public class Main {
     
