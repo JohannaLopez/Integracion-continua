@@ -1,5 +1,5 @@
 package integracionjenkins;
-//prueba6
+//prueba7
 import static org.junit.Assert.*;
 
 import org.junit.Test;
